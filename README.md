@@ -2,6 +2,11 @@
 
 ![image](https://github.com/user-attachments/assets/1e5f9d77-7e00-4496-902f-cb844e7c1f43)
 
+<br>
+
+**[코드 리뷰 : Tistory](https://hunseop2772.tistory.com/349)**
+
+<br>
 
 ## 기술 스택
 - 백엔드:
